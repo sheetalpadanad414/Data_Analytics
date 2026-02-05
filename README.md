@@ -1,10 +1,10 @@
 # Data Analysis
 
-## Internship Overview
+## Overview
 This repository contains all the tasks completed as part of the  
-*Codetech Data Analysis Internship**.
+*data analytics**.
 
-The internship focuses on practical implementation of:
+This focuses on practical implementation of:
 - Big Data Processing
 - Data Analysis
 - Predictive Analytics
