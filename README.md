@@ -1,4 +1,4 @@
-# Codetech Internship – Data Analysis
+# Data Analysis
 
 ## Internship Overview
 This repository contains all the tasks completed as part of the  
